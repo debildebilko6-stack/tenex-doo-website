@@ -1,3 +1,13 @@
+import type { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "Projekti | TENEX d.o.o.",
+  description: "Pregled referenci i projekata niskogradnje, iskopa i rušenja u Sarajevu i širom BiH.",
+  alternates: {
+    canonical: "/projekti",
+  },
+}
+
 const placeholders = Array.from({ length: 12 }, (_, i) => ({
   title: `Projekt #${i + 1}`,
   location: "Lokacija (dodati)",
@@ -29,7 +39,7 @@ export default function ProjectsPage() {
         </div>
 
         <div className="mt-10 rounded-2xl border border-border/50 bg-card p-5">
-          <div className="font-semibold text-foreground mb-1">Sadrzaj koji nedostaje</div>
+          <div className="font-semibold text-foreground mb-1">Sadržaj koji nedostaje</div>
           <ul className="text-sm text-muted-foreground list-disc pl-5">
             <li>Fotografije prije/poslije (6–12 projekata)</li>
             <li>Lokacija + godina</li>

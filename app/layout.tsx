@@ -31,6 +31,20 @@ export const metadata: Metadata = {
     url: siteUrl,
     type: "website",
     siteName: siteConfig.companyName,
+    images: [
+      {
+        url: "/hero-demolition.jpg",
+        width: 1200,
+        height: 630,
+        alt: "TENEX d.o.o. | Niskogradnja Sarajevo",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "TENEX d.o.o. | Niskogradnja Sarajevo",
+    description: "Niskogradnja, iskopi, prevoz i rušenja u Sarajevu i široj BiH.",
+    images: ["/hero-demolition.jpg"],
   },
   generator: "v0.app",
 }

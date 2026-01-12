@@ -117,7 +117,7 @@ export function ServicesSection() {
             {"Šta dobijate kada radimo mi"}
           </h2>
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed">
-            {"Svaka usluga je opisana kroz ishod, rizik koji uklanjamo i šta je uključeno. Jasno prije nego počnemo."}
+            {"Svaka usluga je opisana kroz ishod, rizik koji uklanjamo i šta je uključeno. Jasno prije nego počnemo. Niskogradnja Sarajevo, iskopi i rušenja na jednoj adresi."}
           </p>
         </div>
 
