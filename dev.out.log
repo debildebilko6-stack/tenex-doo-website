@@ -1,0 +1,185 @@
+
+> my-v0-project@0.1.0 dev
+> next dev --port 3000
+
+   ▲ Next.js 16.0.10 (Turbopack)
+   - Local:         http://localhost:3000
+   - Network:       http://169.254.83.107:3000
+
+ ✓ Starting...
+ ✓ Ready in 686ms
+ ○ Compiling / ...
+ GET / 200 in 4.1s (compile: 3.5s, render: 615ms)
+ ✓ Compiled in 357ms
+ GET / 200 in 157ms (compile: 110ms, render: 47ms)
+ ✓ Compiled in 214ms
+ GET / 200 in 160ms (compile: 132ms, render: 27ms)
+ GET / 200 in 450ms (compile: 6ms, render: 444ms)
+ ✓ Compiled in 275ms
+ ✓ Compiled in 298ms
+ ✓ Compiled in 356ms
+ ✓ Compiled in 260ms
+ ✓ Compiled in 163ms
+ ✓ Compiled in 202ms
+ ✓ Compiled in 105ms
+ ✓ Compiled in 116ms
+ GET / 200 in 92ms (compile: 52ms, render: 40ms)
+ ✓ Compiled in 170ms
+ ✓ Compiled in 93ms
+ ✓ Compiled in 88ms
+ ✓ Compiled in 80ms
+ ✓ Compiled in 185ms
+ ✓ Compiled in 106ms
+ GET / 200 in 77ms (compile: 46ms, render: 31ms)
+ ✓ Compiled in 77ms
+ ✓ Compiled in 105ms
+ GET / 200 in 67ms (compile: 45ms, render: 22ms)
+ ✓ Compiled in 114ms
+ GET / 200 in 67ms (compile: 43ms, render: 24ms)
+ ✓ Compiled in 136ms
+ GET / 200 in 65ms (compile: 45ms, render: 20ms)
+ ✓ Compiled in 128ms
+ GET / 200 in 94ms (compile: 64ms, render: 30ms)
+ ✓ Compiled in 167ms
+ ✓ Compiled in 152ms
+ ✓ Compiled in 85ms
+ ✓ Compiled in 94ms
+ ✓ Compiled in 90ms
+ ✓ Compiled in 92ms
+ ✓ Compiled in 96ms
+ ✓ Compiled in 83ms
+ ✓ Compiled in 77ms
+ ✓ Compiled in 112ms
+ GET / 200 in 350ms (compile: 61ms, render: 289ms)
+ ✓ Compiled in 140ms
+ ✓ Compiled in 171ms
+ ✓ Compiled in 108ms
+ ✓ Compiled in 112ms
+ GET / 200 in 68ms (compile: 46ms, render: 21ms)
+ ✓ Compiled in 84ms
+ ✓ Compiled in 85ms
+ ✓ Compiled in 95ms
+ ✓ Compiled in 86ms
+ ✓ Compiled in 166ms
+ ✓ Compiled in 94ms
+ ✓ Compiled in 84ms
+ ✓ Compiled in 96ms
+ ✓ Compiled in 93ms
+ ✓ Compiled in 118ms
+ GET / 200 in 87ms (compile: 47ms, render: 41ms)
+ ✓ Compiled in 103ms
+ ✓ Compiled in 85ms
+ GET / 200 in 71ms (compile: 49ms, render: 22ms)
+ GET / 200 in 82ms (compile: 52ms, render: 30ms)
+ ✓ Compiled in 132ms
+ ✓ Compiled in 91ms
+ GET / 200 in 485ms (compile: 130ms, render: 355ms)
+ GET / 200 in 457ms (compile: 291ms, render: 166ms)
+ GET / 200 in 426ms (compile: 181ms, render: 246ms)
+ GET / 200 in 162ms (compile: 24ms, render: 138ms)
+ ✓ Compiled in 108ms
+ ✓ Compiled in 97ms
+ ✓ Compiled in 98ms
+ ✓ Compiled in 93ms
+ ✓ Compiled in 305ms
+ GET / 200 in 597ms (compile: 105ms, render: 492ms)
+ ✓ Compiled in 157ms
+ GET / 200 in 86ms (compile: 62ms, render: 24ms)
+ GET / 200 in 347ms (compile: 4ms, render: 344ms)
+ ✓ Compiled in 113ms
+ ✓ Compiled in 94ms
+ GET / 200 in 271ms (compile: 51ms, render: 220ms)
+ GET / 200 in 138ms (compile: 7ms, render: 132ms)
+ ✓ Compiled in 176ms
+ GET / 200 in 122ms (compile: 74ms, render: 48ms)
+ ✓ Compiled in 106ms
+ GET / 200 in 109ms (compile: 72ms, render: 36ms)
+ GET / 200 in 389ms (compile: 6ms, render: 384ms)
+ ✓ Compiled in 109ms
+ GET / 200 in 294ms (compile: 48ms, render: 245ms)
+ ✓ Compiled in 116ms
+ GET / 200 in 113ms (compile: 57ms, render: 57ms)
+ GET / 200 in 236ms (compile: 3ms, render: 233ms)
+ GET /Ciscenje%20na%20hidrocentrali%20u%20trnovu.jpg 404 in 865ms (compile: 699ms, render: 166ms)
+ GET /Miniranje%20%20i%20iskop%20za%20apartmane%20na%20bjelasnici.jpg 404 in 873ms (compile: 672ms, render: 201ms)
+ GET /uredivanje%20lokacije%20za%20parking%20za%20stupu.jpg 404 in 863ms (compile: 786ms, render: 78ms)
+ ✓ Compiled in 103ms
+ GET / 200 in 86ms (compile: 54ms, render: 32ms)
+ GET / 200 in 340ms (compile: 3ms, render: 337ms)
+ GET /Miniranje%20%20i%20iskop%20za%20apartmane%20na%20bjelasnici.jpg 404 in 108ms (compile: 8ms, render: 100ms)
+ GET /Ciscenje%20na%20hidrocentrali%20u%20trnovu.jpg 404 in 106ms (compile: 33ms, render: 73ms)
+ GET /uredivanje%20lokacije%20za%20parking%20za%20stupu.jpg 404 in 95ms (compile: 49ms, render: 46ms)
+ GET /miniranje-iskop-bjelasnica.jpg 404 in 40ms (compile: 8ms, render: 31ms)
+ ✓ Compiled in 84ms
+ ✓ Compiled in 112ms
+ GET / 200 in 78ms (compile: 52ms, render: 26ms)
+ GET / 200 in 419ms (compile: 8ms, render: 412ms)
+ ✓ Compiled in 130ms
+ GET / 200 in 79ms (compile: 52ms, render: 27ms)
+ ✓ Compiled in 89ms
+ GET / 200 in 89ms (compile: 68ms, render: 21ms)
+ ✓ Compiled in 92ms
+ GET / 200 in 264ms (compile: 47ms, render: 218ms)
+ GET / 200 in 81ms (compile: 55ms, render: 27ms)
+ ✓ Compiled in 119ms
+ ✓ Compiled in 193ms
+ GET / 200 in 30ms (compile: 5ms, render: 25ms)
+ ✓ Compiled in 211ms
+ GET / 200 in 78ms (compile: 45ms, render: 33ms)
+ GET / 200 in 206ms (compile: 3ms, render: 202ms)
+ ✓ Compiled in 217ms
+ ✓ Compiled in 167ms
+ ✓ Compiled in 120ms
+ GET / 200 in 71ms (compile: 48ms, render: 23ms)
+ ✓ Compiled in 112ms
+ ✓ Compiled in 185ms
+ ✓ Compiled in 397ms
+ GET / 200 in 241ms (compile: 175ms, render: 65ms)
+ GET / 200 in 122ms (compile: 8ms, render: 114ms)
+ ✓ Compiled in 105ms
+ ✓ Compiled in 100ms
+ ✓ Compiled in 213ms
+ GET / 200 in 598ms (compile: 95ms, render: 503ms)
+ GET / 200 in 83ms (compile: 55ms, render: 29ms)
+ GET / 200 in 30ms (compile: 3ms, render: 27ms)
+ ✓ Compiled in 153ms
+ ✓ Compiled in 256ms
+ ✓ Compiled in 200ms
+ ✓ Compiled in 124ms
+ GET / 200 in 322ms (compile: 58ms, render: 264ms)
+ ✓ Compiled in 125ms
+ ✓ Compiled in 102ms
+ ✓ Compiled in 106ms
+ GET / 200 in 501ms (compile: 129ms, render: 372ms)
+ GET / 200 in 205ms (compile: 5ms, render: 200ms)
+ ✓ Compiled in 106ms
+ GET / 200 in 282ms (compile: 49ms, render: 234ms)
+ ✓ Compiled in 248ms
+ GET / 200 in 739ms (compile: 128ms, render: 611ms)
+ GET / 200 in 291ms (compile: 4ms, render: 287ms)
+ GET / 200 in 220ms (compile: 6ms, render: 214ms)
+ ✓ Compiled in 512ms
+ GET / 200 in 284ms (compile: 10ms, render: 274ms)
+ ✓ Compiled in 260ms
+ ✓ Compiled in 285ms
+ ✓ Compiled in 209ms
+ ✓ Compiled in 208ms
+ ✓ Compiled in 179ms
+ ✓ Compiled in 224ms
+ ✓ Compiled in 221ms
+ ✓ Compiled in 191ms
+ ✓ Compiled in 99ms
+ ✓ Compiled in 96ms
+ GET / 200 in 312ms (compile: 63ms, render: 249ms)
+ ✓ Compiled in 80ms
+ ✓ Compiled in 109ms
+ ✓ Compiled in 104ms
+ ✓ Compiled in 103ms
+ ✓ Compiled in 106ms
+ ✓ Compiled in 128ms
+ ✓ Compiled in 125ms
+ ✓ Compiled in 134ms
+ ✓ Compiled in 133ms
+ ✓ Compiled in 115ms
+ ✓ Compiled in 180ms
+ GET / 200 in 218ms (compile: 56ms, render: 162ms)
