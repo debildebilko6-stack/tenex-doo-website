@@ -137,11 +137,11 @@ export function AboutSection() {
                 <img src="/2.5dlogo.png" alt="TENEX logo" className="w-16 h-16 object-contain p-2" />
               </div>
               <div className="flex-1">
-                <div className="font-semibold text-foreground text-base">Porodi?na firma od {siteConfig.foundedYear}.</div>
-                <div className="text-sm text-muted-foreground">Dugoro?no povjerenje i odgovoran odnos.</div>
+                <div className="font-semibold text-foreground text-base">Porodična firma od {siteConfig.foundedYear}.</div>
+                <div className="text-sm text-muted-foreground">Dugoročno povjerenje i odgovoran odnos.</div>
               </div>
               <Button variant="outline" className="rounded-full bg-transparent">
-                {"Vi?e o nama"}
+                {"Više o nama"}
               </Button>
             </div>
           </div>
