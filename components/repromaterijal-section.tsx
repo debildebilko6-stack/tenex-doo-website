@@ -13,7 +13,7 @@ export function RepromaterijalSection() {
               <span className="w-2 h-2 bg-primary rounded-full" />
               <span className="text-sm font-medium text-foreground/90">Repromaterijal</span>
             </div>
-            <h2 className="text-3xl md:text-4xl font-bold tracking-tight mb-2 leading-[1.1]">
+            <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight mb-2 leading-[1.1]">
               Materijali koji predstavljaju naš kvalitet
             </h2>
             <p className="text-base md:text-lg text-muted-foreground mb-4">

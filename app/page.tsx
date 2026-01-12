@@ -26,7 +26,7 @@ export default function Home() {
       <ParticleField />
       <ScrollProgress />
       <SmoothScroll>
-        <main className="relative overflow-hidden section-compact">
+        <main className="relative overflow-hidden section-compact pb-28 md:pb-0">
           <Navigation />
           <HeroSection />
           <MarqueeSection />
